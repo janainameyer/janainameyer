@@ -8,13 +8,12 @@
 
 ## 💻 Sobre mim
     •Graduanda do 3º semestre TI, apaixonada por tecnologia.
-    •Atualmente, estou no terceiro semestre de Gestão de TI e me aprofundando em AWS Cloud Computing. 
-    Estou empolgada em aprender mais sobre soluções em nuvem e como elas podem melhorar a infraestrutura das empresas.😊
+    •Atualmente, estou no terceiro semestre de Gestão de TI e me aprofundando em AWS Cloud Computing. Estou empolgada em aprender mais sobre soluções em nuvem e como elas podem melhorar a infraestrutura das empresas.😊
 
 
 
 ## 🚀 Objetivos
-  Meu objetivo é me tornar um arquiteto de soluções em nuvem, utilizando minhas habilidades em AWS para criar soluções escaláveis e eficientes.
+    •Meu objetivo é me tornar um arquiteto de soluções em nuvem, utilizando minhas habilidades em AWS para criar soluções escaláveis e eficientes.
 
 ## ☁ Explorando AWS
     •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
