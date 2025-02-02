@@ -8,7 +8,9 @@
 
 ## 💻 Sobre mim
     •Graduanda do 3º semestre TI, apaixonada por tecnologia.
-    •Atualmente, estou no terceiro semestre de Gestão de TI e me aprofundando em AWS Cloud Computing. Estou empolgada em aprender mais sobre soluções em nuvem e como elas podem melhorar a infraestrutura das empresas.😊
+    •Atualmente, estou no terceiro semestre de Gestão de TI e me aprofundando em 
+    AWS Cloud Computing. Estou empolgada em aprender mais sobre soluções em nuvem 
+    e como elas podem melhorar a infraestrutura das empresas.😊
 
 
 
