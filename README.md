@@ -15,7 +15,8 @@
 
 
 ## 🚀 Objetivos
-    •Meu objetivo é me tornar um arquiteto de soluções em nuvem, utilizando minhas habilidades em AWS para criar soluções escaláveis e eficientes.
+    •Meu objetivo é me tornar um arquiteto de soluções em nuvem, 
+    utilizando minhas habilidades em AWS para criar soluções escaláveis e eficientes.
 
 ## ☁ Explorando AWS
     •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
