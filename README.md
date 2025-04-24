@@ -7,10 +7,9 @@
 
 
 ## 💻 Sobre mim
-    •Graduanda do 3º semestre TI, apaixonada por tecnologia.
-    •Atualmente, estou no terceiro semestre de Gestão de TI e me aprofundando em 
-    AWS Cloud Computing. Estou empolgada em aprender mais sobre soluções em nuvem 
-    e como elas podem melhorar a infraestrutura das empresas.😊
+    •I am an Information Technology undergraduate, currently in my 3rd semester at FMU, with a strong focus on cloud computing through my studies at Escola da Nuvem. I am actively enhancing my skills in AWS, Python, Java, SQL, and IT Governance, and working on developing an AI project in collaboration with Escola da Nuvem.
+
+I am passionate about leveraging technology to create innovative solutions, and I am continuously expanding my knowledge in cloud computing, software development, and AI. With a keen interest in IT governance and software engineering principles, I am committed to applying my skills to real-world projects that make a positive impact."😊
 
 
 
