@@ -53,7 +53,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainameyer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
-  ## 🌐 Conecte-se comigo
+  ## 🌐 Connect with me:
 
 <div> 
    <a href="http://linkedin.com/in/janainameyer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
