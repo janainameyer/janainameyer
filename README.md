@@ -16,15 +16,15 @@
 
 
 
-## 🚀 Objetivos
-    •Meu objetivo é me tornar um arquiteto de soluções em nuvem, 
-    utilizando minhas habilidades em AWS para criar soluções escaláveis e eficientes.
+## 🚀 Career goals
+    •"Aspiring Cloud Solutions Architect, passionate about leveraging AWS to build scalable,
+    efficient, and innovative cloud solutions."
 
-## ☁ Explorando AWS
+## ☁ Exploring AWS
     •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
 
 
- ## 🌟 Tecnologias
+ ## 🌟 Technologies
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="30">&nbsp;
@@ -64,7 +64,7 @@
 
 </div>
 
- ## 🐍 Contribuições no GitHub
+ ## 🐍 GitHub contributions
  
 <div align="center">
 <img src="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/snake.svg" alt="Snake animation" />
