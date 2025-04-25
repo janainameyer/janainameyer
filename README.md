@@ -17,8 +17,8 @@
 
 
 ## 🚀 Career goals
-    •"Aspiring Cloud Solutions Architect, passionate about leveraging AWS to build scalable,
-    efficient, and innovative cloud solutions."
+    •Aspiring Cloud Solutions Architect, passionate about leveraging AWS to build scalable,
+    efficient, and innovative cloud solutions.
 
 ## ☁ Exploring AWS
     •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
