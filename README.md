@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="30">&nbsp;
 </div>
 
-## 🔧 Ferramentas
+## 🔧 Tools
 	
  <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="30">&nbsp;
