@@ -1,12 +1,12 @@
 <div align="center">
 
-# Sejam bem vindos ao meu Github!
+# Hi there! Welcome to my GitHub profile 👋
 
 <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas max-width: 100%" >
 </div>
 
 
-## 💻 Sobre mim
+## 💻 About Me
     •I am an Information Technology undergraduate, currently in my 3rd semester at FMU, with a strong focus on cloud
     computing through my studies at Escola da Nuvem. I am actively enhancing my skills in AWS, Python, Java, SQL, 
     and IT Governance, and working on developing an AI project in collaboration with Escola da Nuvem. I am
