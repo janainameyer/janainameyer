@@ -2,7 +2,7 @@
 
 # Hi there! Welcome to my GitHub profile 👋
 
-<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas max-width: 100%" >
+<img src="https://i.pinimg.com/736x/3a/a5/8c/3aa58cc83679ff20122b9927fb6c5cf4.jpg" height="320" alt="GIF de boas-vindas max-width: 100%" >
 </div>
 
 
